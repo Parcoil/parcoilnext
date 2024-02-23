@@ -1,7 +1,7 @@
 import React from "react";
 import Nav from "../nav";
 import { Image, Button } from "@nextui-org/react";
-import App from "../app.css";
+
 import Link from "next/link";
 function page() {
   return (
