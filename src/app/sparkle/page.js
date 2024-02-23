@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "../nav";
+import Nav from "../components/nav";
 import { Image, Button } from "@nextui-org/react";
 
 import Link from "next/link";

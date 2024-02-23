@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, CardBody, CardFooter, Image } from "@nextui-org/react";
-import Nav from "../nav";
+import Nav from "../components/nav";
 export default function App() {
   const shortcuts = [
     {

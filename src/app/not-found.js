@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "./nav";
+import Nav from "./components/nav";
 import { Button, Link } from "@nextui-org/react";
 
 function notfound() {
