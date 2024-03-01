@@ -2,7 +2,7 @@ import React from "react";
 import { Card, CardBody, CardFooter, Image, Link } from "@nextui-org/react";
 
 import shortcutsData from "./shortcuts.json"; // Assuming your JSON file is named shortcuts.json
-import "../app.css";
+
 import Nav from "../components/nav";
 import Stars from "../components/stars";
 export default function App() {
