@@ -1,10 +1,10 @@
 import "./App.css";
-import { Button } from "@nextui-org/react";
+import { Button, Link } from "@nextui-org/react";
 import { Metadata } from "next";
 import Stars from "./components/stars";
 import Nav from "./components/nav";
 export const metadata = {
-  title: "a",
+  title: "Home",
 };
 function App() {
   return (
@@ -19,9 +19,11 @@ function App() {
           Experience!
         </a>
         <div className="text-center mt-6">
-          <Button size="lg" color="primary" variant="shadow">
-            Explore
-          </Button>
+          <Link href="/sparkle">
+            <Button size="lg" color="primary" variant="shadow">
+              Check Out Sparkle ✨
+            </Button>
+          </Link>
         </div>
       </div>
     </main>

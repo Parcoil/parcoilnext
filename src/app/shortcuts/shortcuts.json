@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Send message to Mom",
+    "img": "https://cdn2.hubspot.net/hubfs/53/image8-2.jpg",
+    "action": "Send a message to your mom",
+    "url": "http://www.google.com/"
+  },
+  {
+    "title": "Set timer for 10 minutes",
+    "img": "/images/timer.jpeg",
+    "action": "Set a timer for 10 minutes",
+    "url": "http://www.google.com/"
+  },
+  {
+    "title": "Directions to Home",
+    "img": "/images/directions.jpeg",
+    "action": "Get directions to your home"
+  },
+  {
+    "title": "Call Emergency",
+    "img": "/images/call.jpeg",
+    "action": "Call emergency services"
+  },
+  {
+    "title": "Create reminder",
+    "img": "/images/reminder.jpeg",
+    "action": "Create a reminder"
+  },
+  {
+    "title": "Play Music",
+    "img": "/images/music.jpeg",
+    "action": "Play your favorite music"
+  },
+  {
+    "title": "Search the web",
+    "img": "/images/search.jpeg",
+    "action": "Perform a web search"
+  },
+  {
+    "title": "Send email",
+    "img": "/images/email.jpeg",
+    "action": "Compose and send an email"
+  }
+]

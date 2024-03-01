@@ -37,3 +37,11 @@
   font-family: "SF-Pro-Display-Bold";
   font-weight: 900;
 }
+.shortcutcard {
+  width: 700px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -60%);
+  text-align: center;
+}
