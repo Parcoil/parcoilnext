@@ -14,7 +14,7 @@ function page() {
           <img width={100} alt="Sparkle Logo" src="sparkles_logo.png" />
         </div>
         <h1 className="text-6xl">Meet Sparkle.</h1>
-        <h4 className="mt-3">The Finest Windows Optimizer</h4>
+        <h4 className="mt-3">The Finest Windows Optimizer.</h4>
         <Tooltip content="A new version is coming soon!">
           <Link href={"https://github.com/Parcoil/Sparkle/releases/latest"}>
             <Button variant="shadow" color="primary" className="mt-7">
