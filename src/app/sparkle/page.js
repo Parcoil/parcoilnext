@@ -22,6 +22,11 @@ function page() {
             </Button>
           </Link>
         </Tooltip>
+        <Link href={"sparkle/beta"}>
+          <Button variant="shadow" color="primary" className="mt-7 ml-4">
+            Beta
+          </Button>
+        </Link>
       </div>
       <div className="flex justify-center items-center mt-9">
         <img
