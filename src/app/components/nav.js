@@ -52,10 +52,10 @@ function Nav() {
                 📦&nbsp;Shortcuts
               </DropdownItem>
               <DropdownItem key="copy" href="/sparkle">
-                ✨&nbsp;Sparkle
+                ✨&nbsp;Sparkle (Discontinued)
               </DropdownItem>
-              <DropdownItem key="edit" href="https://nativegames.net">
-                🎮&nbsp;Nativegames
+              <DropdownItem key="edit" href="https://lunaar.org">
+                🌙🎮&nbsp;Lunaar (nativegames)
               </DropdownItem>
               {/* <DropdownItem key="delete" className="text-danger" color="danger">
                 Delete file

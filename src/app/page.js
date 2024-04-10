@@ -19,9 +19,9 @@ function App() {
           Experience!
         </a>
         <div className="text-center mt-6">
-          <Link href="/sparkle">
+          <Link href="https://lunaar.org">
             <Button size="lg" color="primary" variant="shadow">
-              Check Out Sparkle ✨
+              Check Out Lunaar 🌙
             </Button>
           </Link>
         </div>

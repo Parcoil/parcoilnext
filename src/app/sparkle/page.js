@@ -15,18 +15,18 @@ function page() {
         </div>
         <h1 className="text-6xl">Meet Sparkle.</h1>
         <h4 className="mt-3">The Finest Windows Optimizer.</h4>
-        <Tooltip content="A new version is coming soon!">
+        <Tooltip content="Discontinued">
           <Link href={"https://github.com/Parcoil/Sparkle/releases/latest"}>
             <Button variant="shadow" color="primary" className="mt-7">
               Download
             </Button>
           </Link>
         </Tooltip>
-        <Link href={"sparkle/beta"}>
+        {/* <Link href={"sparkle/beta"}>
           <Button variant="shadow" color="primary" className="mt-7 ml-4">
             Beta
           </Button>
-        </Link>
+        </Link> */}
       </div>
       <div className="flex justify-center items-center mt-9">
         <img
